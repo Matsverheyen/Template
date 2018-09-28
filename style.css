@@ -26,19 +26,3 @@ body {
 .logo > img {
   margin-top: 221px;
 }
-
-.pages {
-  list-style-type: none;
-}
-
-.pages > i {
-  float: left;
-  margin: 10px;
-  font-size: 30px;
-}
-
-.pages > li {
-  float: left;
-  margin: 20px;
-  font-size: 15px;
-}
