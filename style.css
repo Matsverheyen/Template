@@ -6,6 +6,7 @@
 body {
   background-image: url(img/background.jpg);
   background-size: cover;
+  background-position: 0px 20px;
 }
 
 .topbar {
@@ -23,7 +24,7 @@ body {
 }
 
 .logo > img {
-  margin-top: 220px;
+  margin-top: 221px;
 }
 
 .pages {
