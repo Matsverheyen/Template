@@ -1,0 +1,43 @@
+* {
+  line-height: 1.7em; font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+body {
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+.topbar {
+  width: 2000px;
+  float: right;
+  margin: -20px;
+  overflow: hidden;
+  height: 52px;
+  Background-color: white;
+}
+
+.logo {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo > img {
+  margin-top: 220px;
+}
+
+.pages {
+  list-style-type: none;
+}
+
+.pages > i {
+  float: left;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.pages > li {
+  float: left;
+  margin: 20px;
+  font-size: 20px;
+}
